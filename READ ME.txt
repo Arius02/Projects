@@ -1,2 +1,3 @@
-انا بس شيلت ال mediaquery
-علشان اكتشفت انها مبوظة الموقع لكن معدلتش اي حاجة في الكود
+Larry Daniels
+
+I used HTML, CSS and Bootstrap
