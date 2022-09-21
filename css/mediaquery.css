@@ -1,0 +1,16 @@
+@media screen and (max-width:700px) {
+  h1 {
+    font-size: 1.3rem;
+    margin-left: 450px;
+    font-weight: 100;
+   }
+  h1::after {
+    left: 8%;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+.form-control,
+.card-1 {
+  margin-bottom: 20px !important;
+}
+}
